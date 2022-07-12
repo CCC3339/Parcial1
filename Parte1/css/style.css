@@ -1,0 +1,33 @@
+span{
+    font-weight:bold;
+  }
+  #quote{
+    text-align:center;
+    font-size: 15px;
+  }
+  #titles{
+    text-align: center;
+  }
+  #foto{
+    border: 5px double;
+    text-align: center;
+    width:50%;
+    height:40%;
+  }
+  #fotoflex{
+    display:flex;
+    justify-content:center;
+  }
+  #footfoot{
+    margin-top: 50px;
+    display:flex;
+    justify-content:flex-end;
+  }
+  .timelinecontent{
+    display:flex;
+    flex-direction: column-reverse;
+  }
+  
+  body{
+    background-color:yellow;
+  }
